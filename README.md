@@ -16,11 +16,6 @@ Bondi is a responsive and visually appealing website template designed to highli
 
 ## Getting Started
 
-### Prerequisites
-
-- A web browser (e.g., Chrome, Firefox, Safari)
-- A code editor (e.g., VSCode, Sublime Text)
-
 ### Installation
 
 1. Clone the repository:
@@ -32,18 +27,6 @@ Bondi is a responsive and visually appealing website template designed to highli
     cd bondi
     ```
 
-### Usage
-
-1. Open `index.html` in your web browser to view the website.
-2. Customize the content and styles as needed in the `index.html` and `css/bondi.css` files.
-
-## Authors
-
-- Your Name - [@yourusername](https://github.com/yourusername)
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgments
 
